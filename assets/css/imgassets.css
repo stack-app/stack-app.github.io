@@ -1,0 +1,52 @@
+.logo {
+	background-position: center;
+	background-size:70% 70%;
+	background-repeat: no-repeat;
+	background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB3aWR0aD0iMjI0IiBoZWlnaHQ9IjIyNCIgdmlld0JveD0iMCAwIDIyNCAyMjQiPjxkZWZzPjxzdHlsZT4uYXtjbGlwLXBhdGg6dXJsKCNpKTt9LmIsLmMsLmQsLmUsLmYsLmcsLmh7b3BhY2l0eTowLjY5OTt9LmJ7ZmlsbDp1cmwoI2EpO30uY3tmaWxsOnVybCgjYik7fS5ke2ZpbGw6dXJsKCNjKTt9LmV7ZmlsbDp1cmwoI2QpO30uZntmaWxsOnVybCgjZSk7fS5ne2ZpbGw6dXJsKCNmKTt9Lmh7ZmlsbDp1cmwoI2cpO308L3N0eWxlPjxsaW5lYXJHcmFkaWVudCBpZD0iYSIgeDE9IjAuNSIgeTE9IjAuNSIgeDI9IjEiIHkyPSIwLjUiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94Ij48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMxNDY0YjQiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiMxODdiNjgiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iYiIgeDE9IjAuNSIgeDI9IjEiIHkyPSIwLjUiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94Ij48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiMyODUwYjQiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM0MjdkYTgiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iYyIgeDE9IjAuNSIgeDI9IjAuMTU5IiB5Mj0iMC44NjEiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94Ij48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM2NDE0YjQiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiM5ODZiYzMiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iZCIgeDE9IjAuNSIgeDI9IjAuMDEyIiBncmFkaWVudFVuaXRzPSJvYmplY3RCb3VuZGluZ0JveCI+PHN0b3Agb2Zmc2V0PSIwIiBzdG9wLWNvbG9yPSIjNzgxNGEwIi8+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjYmI3Y2QzIi8+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImUiIHgxPSIwLjUiIHgyPSItMC4wMjkiIGdyYWRpZW50VW5pdHM9Im9iamVjdEJvdW5kaW5nQm94Ij48c3RvcCBvZmZzZXQ9IjAiIHN0b3AtY29sb3I9IiM4YzE0OGMiLz48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNkODhkZDgiLz48L2xpbmVhckdyYWRpZW50PjxsaW5lYXJHcmFkaWVudCBpZD0iZiIgeDE9IjAuNSIgeDI9Ii0wLjA0NSIgZ3JhZGllbnRVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2EwMTQ3OCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2Q1ODRiZCIvPjwvbGluZWFyR3JhZGllbnQ+PGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMC41IiB5MT0iMC41IiB4Mj0iMCIgeTI9IjAuNSIgZ3JhZGllbnRVbml0cz0ib2JqZWN0Qm91bmRpbmdCb3giPjxzdG9wIG9mZnNldD0iMCIgc3RvcC1jb2xvcj0iI2I0MTQ2NCIvPjxzdG9wIG9mZnNldD0iMSIgc3RvcC1jb2xvcj0iI2VhOWZjNSIvPjwvbGluZWFyR3JhZGllbnQ+PGNsaXBQYXRoIGlkPSJpIj48cmVjdCB3aWR0aD0iMjI0IiBoZWlnaHQ9IjIyNCIvPjwvY2xpcFBhdGg+PC9kZWZzPjxnIGlkPSJoIiBjbGFzcz0iYSI+PGcgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTEzOC4yNzUgLTEzOS44NzcpIj48ZWxsaXBzZSBjbGFzcz0iYiIgY3g9Ijg3IiBjeT0iNjAiIHJ4PSI4NyIgcnk9IjYwIiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNjMuMjc1IDI0My44NzcpIi8+PGVsbGlwc2UgY2xhc3M9ImMiIGN4PSIxMDUiIGN5PSI2NCIgcng9IjEwNSIgcnk9IjY0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgxNDUuMjc1IDIxOC44NzcpIi8+PGVsbGlwc2UgY2xhc3M9ImQiIGN4PSIxMTIiIGN5PSI1Ny41IiByeD0iMTEyIiByeT0iNTcuNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTM4LjI3NSAxOTguODc3KSIvPjxlbGxpcHNlIGNsYXNzPSJlIiBjeD0iMTEwIiBjeT0iNDIuNSIgcng9IjExMCIgcnk9IjQyLjUiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE0MC4yNzUgMTg0Ljg3NykiLz48ZWxsaXBzZSBjbGFzcz0iZiIgY3g9IjEwMCIgY3k9IjI4IiByeD0iMTAwIiByeT0iMjgiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDE1MC4yNzUgMTcxLjg3NykiLz48ZWxsaXBzZSBjbGFzcz0iZyIgY3g9IjgwIiBjeT0iMjMuNSIgcng9IjgwIiByeT0iMjMuNSIgdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMTcwLjI3NSAxNTEuODc3KSIvPjxlbGxpcHNlIGNsYXNzPSJoIiBjeD0iNTAiIGN5PSIxNiIgcng9IjUwIiByeT0iMTYiIHRyYW5zZm9ybT0idHJhbnNsYXRlKDIwMC4yNzUgMTM5Ljg3NykiLz48L2c+PC9nPjwvc3ZnPg==");
+}
+
+.headline-div {
+	margin-left: 0;
+	margin-bottom: 1.5em;
+}
+
+
+.headline-title {
+	padding: 0 0 0 0.2em;
+	margin: 0 0 0 0;
+}
+
+
+.headline-logo {
+	padding: 0 0 0 0;
+	margin: 0 0 0 0;
+}
+
+.navi-logo {
+	margin-left: 2em;
+	margin-top: 0.7em;
+}
+
+.button-no-action {
+		-moz-appearance: none;
+		-webkit-appearance: none;
+		-ms-appearance: none;
+		appearance: none;
+		-moz-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+		-webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+		-ms-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+		transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+		background-color: transparent;
+		border-radius: 4px;
+		border: 0;
+		box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.3);
+		color: #ffffff !important;
+		display: inline-block;
+		font-weight: 300;
+		height: 3em;
+		line-height: 3em;
+		padding: 0 2.25em;
+		text-align: center;
+		text-decoration: none;
+		white-space: nowrap;
+}
